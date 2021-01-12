@@ -1,0 +1,32 @@
+
+a. {
+
+}
+li {
+    list-style: none;
+    margin-left:2vw;
+
+}
+
+.main_logo {
+    width: 151px;
+    height: 49px;
+}
+
+.hd-wrapper {
+    height: 62px;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.hd-div {
+ max-width: 1320px;
+}
+
+.hd-ul {
+    display: flex;
+}
+
+.li-left {
+    margin-left: auto;
+}
