@@ -4,8 +4,9 @@ a. {
 }
 li {
     list-style: none;
-    margin-left:2vw;
-
+    margin-left:2.4vw;
+    justify-content: flex-start;
+    flex-shrink: 0;
 }
 
 .main_logo {
@@ -15,18 +16,20 @@ li {
 
 .hd-wrapper {
     height: 62px;
-    margin-left: 15vw;
-    margin-right: 15vw;
+    /*margin-left: 15vw;*/
+    /*margin-right: 15vw;*/
 }
 
 .hd-div {
- max-width: 1320px;
+    align:center;
+
 }
 
 .hd-ul {
     display: flex;
+    justify-content: space-between;
 }
 
-.li-left {
-    margin-left: auto;
+.li-middle {
+    margin-left: 9vw;
 }
